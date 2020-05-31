@@ -1,6 +1,9 @@
 #PyAssistant
-#A simple Program which Takes input through voice, process it , do required operations and gives the desired result.
-#This assitant can do many things , and is easy to modify , only basic knowledge of python is needed.
+#A simple Program which
+#Takes input through voice,
+#process it , 
+#do required operations and 
+#gives the desired result.
 
 
 import webbrowser as wb
